@@ -30,7 +30,7 @@ Supabase, açık kaynaklı ve geliştirici dostu bir platform olmasıyla ön pla
 1. Projeyi klonlayın: 
 
     ```bash
-    git clone https://github.com/kullanıcı_adı/todo-app.git
+    git clone https://github.com/Tressaera/supa-todo-app.git
     cd todo-app
     ```
 
